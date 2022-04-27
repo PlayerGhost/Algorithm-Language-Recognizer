@@ -1,1 +1,1 @@
-# Algorithm-Language-Recognizer
+# Algorithm-Language-Recognizer.
